@@ -1,0 +1,90 @@
+REM  RustyASA
+REM  File of summed (Sum) and % (per.) accessibilities
+REM RES _ NUM      All-atoms   Total-Side   Main-LChain    Non-polar    All polar
+REM                ABS   REL    ABS   REL    ABS   REL    ABS   REL    ABS   REL
+RES ALA E   0        0     0      0     0      0     0      0     0      0     0
+RES THR E   1        0     0      0     0      0     0      0     0      0     0
+RES THR E   2        0     0      0     0      0     0      0     0      0     0
+RES PRO E   3        0     0      0     0      0     0      0     0      0     0
+RES ILE E   4        0     0      0     0      0     0      0     0      0     0
+RES ILE E   5        0     0      0     0      0     0      0     0      0     0
+RES HIS E   6        0     0      0     0      0     0      0     0      0     0
+RES LEU E   7        0     0      0     0      0     0      0     0      0     0
+RES LYS E   8        0     0      0     0      0     0      0     0      0     0
+RES GLY E   9        0     0      0     0      0     0      0     0      0     0
+RES ASP E  10        0     0      0     0      0     0      0     0      0     0
+RES ALA E  11        0     0      0     0      0     0      0     0      0     0
+RES ASN E  12        0     0      0     0      0     0      0     0      0     0
+RES ILE E  13        0     0      0     0      0     0      0     0      0     0
+RES LEU E  14        0     0      0     0      0     0      0     0      0     0
+RES LYS E  15        0     0      0     0      0     0      0     0      0     0
+RES CYS E  16        0     0      0     0      0     0      0     0      0     0
+RES LEU E  17        0     0      0     0      0     0      0     0      0     0
+RES ARG E  18        0     0      0     0      0     0      0     0      0     0
+RES TYR E  19        0     0      0     0      0     0      0     0      0     0
+RES ARG E  20        0     0      0     0      0     0      0     0      0     0
+RES LEU E  21        0     0      0     0      0     0      0     0      0     0
+RES SER E  22        0     0      0     0      0     0      0     0      0     0
+RES LYS E  23        0     0      0     0      0     0      0     0      0     0
+RES TYR E  24        0     0      0     0      0     0      0     0      0     0
+RES LYS E  25        0     0      0     0      0     0      0     0      0     0
+RES GLN E  26        0     0      0     0      0     0      0     0      0     0
+RES LEU E  27        0     0      0     0      0     0      0     0      0     0
+RES TYR E  28        0     0      0     0      0     0      0     0      0     0
+RES GLU E  29        0     0      0     0      0     0      0     0      0     0
+RES GLN E  30        0     0      0     0      0     0      0     0      0     0
+RES VAL E  31        0     0      0     0      0     0      0     0      0     0
+RES SER E  32        0     0      0     0      0     0      0     0      0     0
+RES SER E  33        0     0      0     0      0     0      0     0      0     0
+RES THR E  34        0     0      0     0      0     0      0     0      0     0
+RES TRP E  35        0     0      0     0      0     0      0     0      0     0
+RES HIS E  36        0     0      0     0      0     0      0     0      0     0
+RES TRP E  37        0     0      0     0      0     0      0     0      0     0
+RES THR E  38        0     0      0     0      0     0      0     0      0     0
+RES CYS E  39        0     0      0     0      0     0      0     0      0     0
+RES THR E  40        0     0      0     0      0     0      0     0      0     0
+RES ASP E  41        0     0      0     0      0     0      0     0      0     0
+RES GLY E  42        0     0      0     0      0     0      0     0      0     0
+RES LYS E  43        0     0      0     0      0     0      0     0      0     0
+RES HIS E  44        0     0      0     0      0     0      0     0      0     0
+RES LYS E  45        0     0      0     0      0     0      0     0      0     0
+RES ASN E  46        0     0      0     0      0     0      0     0      0     0
+RES ALA E  47        0     0      0     0      0     0      0     0      0     0
+RES ILE E  48        0     0      0     0      0     0      0     0      0     0
+RES VAL E  49        0     0      0     0      0     0      0     0      0     0
+RES THR E  50        0     0      0     0      0     0      0     0      0     0
+RES LEU E  51        0     0      0     0      0     0      0     0      0     0
+RES THR E  52        0     0      0     0      0     0      0     0      0     0
+RES TYR E  53        0     0      0     0      0     0      0     0      0     0
+RES ILE E  54        0     0      0     0      0     0      0     0      0     0
+RES SER E  55        0     0      0     0      0     0      0     0      0     0
+RES THR E  56        0     0      0     0      0     0      0     0      0     0
+RES SER E  57        0     0      0     0      0     0      0     0      0     0
+RES GLN E  58        0     0      0     0      0     0      0     0      0     0
+RES ARG E  59        0     0      0     0      0     0      0     0      0     0
+RES ASP E  60        0     0      0     0      0     0      0     0      0     0
+RES ASP E  61        0     0      0     0      0     0      0     0      0     0
+RES PHE E  62        0     0      0     0      0     0      0     0      0     0
+RES LEU E  63        0     0      0     0      0     0      0     0      0     0
+RES ASN E  64        0     0      0     0      0     0      0     0      0     0
+RES THR E  65        0     0      0     0      0     0      0     0      0     0
+RES VAL E  66        0     0      0     0      0     0      0     0      0     0
+RES VAL E  67        0     0      0     0      0     0      0     0      0     0
+RES ILE E  68        0     0      0     0      0     0      0     0      0     0
+RES PRO E  69        0     0      0     0      0     0      0     0      0     0
+RES ASN E  70        0     0      0     0      0     0      0     0      0     0
+RES THR E  71        0     0      0     0      0     0      0     0      0     0
+RES VAL E  72        0     0      0     0      0     0      0     0      0     0
+RES SER E  73        0     0      0     0      0     0      0     0      0     0
+RES VAL E  74        0     0      0     0      0     0      0     0      0     0
+RES SER E  75        0     0      0     0      0     0      0     0      0     0
+RES THR E  76        0     0      0     0      0     0      0     0      0     0
+RES GLY E  77        0     0      0     0      0     0      0     0      0     0
+RES TYR E  78        0     0      0     0      0     0      0     0      0     0
+RES MET E  79        0     0      0     0      0     0      0     0      0     0
+RES THR E  80        0     0      0     0      0     0      0     0      0     0
+RES ILE E  81        0     0      0     0      0     0      0     0      0     0
+END  Absolute sums over single chains surface
+CHAIN  1 E      0.0          0.0          0.0          0.0          0.0     
+END  Absolute sums over all chains
+TOTAL             0.0          0.0          0.0          0.0          0.0     
